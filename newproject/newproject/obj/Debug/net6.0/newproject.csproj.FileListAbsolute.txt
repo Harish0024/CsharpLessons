@@ -1,0 +1,14 @@
+C:\Users\harish.v\source\repos\newproject\newproject\bin\Debug\net6.0\newproject.exe
+C:\Users\harish.v\source\repos\newproject\newproject\bin\Debug\net6.0\newproject.deps.json
+C:\Users\harish.v\source\repos\newproject\newproject\bin\Debug\net6.0\newproject.runtimeconfig.json
+C:\Users\harish.v\source\repos\newproject\newproject\bin\Debug\net6.0\newproject.dll
+C:\Users\harish.v\source\repos\newproject\newproject\bin\Debug\net6.0\newproject.pdb
+C:\Users\harish.v\source\repos\newproject\newproject\obj\Debug\net6.0\newproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harish.v\source\repos\newproject\newproject\obj\Debug\net6.0\newproject.AssemblyInfoInputs.cache
+C:\Users\harish.v\source\repos\newproject\newproject\obj\Debug\net6.0\newproject.AssemblyInfo.cs
+C:\Users\harish.v\source\repos\newproject\newproject\obj\Debug\net6.0\newproject.csproj.CoreCompileInputs.cache
+C:\Users\harish.v\source\repos\newproject\newproject\obj\Debug\net6.0\newproject.dll
+C:\Users\harish.v\source\repos\newproject\newproject\obj\Debug\net6.0\refint\newproject.dll
+C:\Users\harish.v\source\repos\newproject\newproject\obj\Debug\net6.0\newproject.pdb
+C:\Users\harish.v\source\repos\newproject\newproject\obj\Debug\net6.0\newproject.genruntimeconfig.cache
+C:\Users\harish.v\source\repos\newproject\newproject\obj\Debug\net6.0\ref\newproject.dll

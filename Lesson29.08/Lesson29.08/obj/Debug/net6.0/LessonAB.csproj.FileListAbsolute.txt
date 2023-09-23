@@ -1,0 +1,14 @@
+C:\Users\harish.v\source\repos\Lesson29.08\Lesson29.08\bin\Debug\net6.0\LessonAB.exe
+C:\Users\harish.v\source\repos\Lesson29.08\Lesson29.08\bin\Debug\net6.0\LessonAB.deps.json
+C:\Users\harish.v\source\repos\Lesson29.08\Lesson29.08\bin\Debug\net6.0\LessonAB.runtimeconfig.json
+C:\Users\harish.v\source\repos\Lesson29.08\Lesson29.08\bin\Debug\net6.0\LessonAB.dll
+C:\Users\harish.v\source\repos\Lesson29.08\Lesson29.08\bin\Debug\net6.0\LessonAB.pdb
+C:\Users\harish.v\source\repos\Lesson29.08\Lesson29.08\obj\Debug\net6.0\LessonAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harish.v\source\repos\Lesson29.08\Lesson29.08\obj\Debug\net6.0\LessonAB.AssemblyInfoInputs.cache
+C:\Users\harish.v\source\repos\Lesson29.08\Lesson29.08\obj\Debug\net6.0\LessonAB.AssemblyInfo.cs
+C:\Users\harish.v\source\repos\Lesson29.08\Lesson29.08\obj\Debug\net6.0\LessonAB.csproj.CoreCompileInputs.cache
+C:\Users\harish.v\source\repos\Lesson29.08\Lesson29.08\obj\Debug\net6.0\LessonAB.dll
+C:\Users\harish.v\source\repos\Lesson29.08\Lesson29.08\obj\Debug\net6.0\refint\LessonAB.dll
+C:\Users\harish.v\source\repos\Lesson29.08\Lesson29.08\obj\Debug\net6.0\LessonAB.pdb
+C:\Users\harish.v\source\repos\Lesson29.08\Lesson29.08\obj\Debug\net6.0\LessonAB.genruntimeconfig.cache
+C:\Users\harish.v\source\repos\Lesson29.08\Lesson29.08\obj\Debug\net6.0\ref\LessonAB.dll

@@ -1,0 +1,36 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["title"] = "Tabs pages";
+}
+<div>
+    <!--tab button-->
+<ul id="tabstrip" class="nav nav-tabs" role="tablist">
+    <!--# is used to select the elements-->
+    <li class="active">
+        <a href="#_FirstTab" role="tab" data-toggle="tab">Submission</a>
+    </li>
+    <li>
+        <a href="#_SecondTab" role="tab" data-toggle="tab">Search</a>
+    </li>
+    <li>
+        <a href="#_ThirdTab" role="tab" data-toggle="tab">Comments</a>
+    </li>
+</ul>
+<div class="tab-content">
+    <div class="tab-pane fade initialism active"id="_FirstTab">
+        <partial name="Score" />
+    </div>
+        <div class="tab-pane fade initialism active" id="_SecondTab">
+            <partial name="ChildList" />
+        </div>
+        <div class="tab-pane fade initialism active" id="_ThirdTab">
+            <partial name="ChildViewdata" view-data="ViewData" />
+        </div>
+</div>
+</div>
+<hr/>
+<partial name="Score" />
+<partial name="ChildList" />
+<partial name="ChildViewdata" view-data="ViewData" />
